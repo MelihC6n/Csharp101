@@ -1,0 +1,16 @@
+C:\Users\melih\Desktop\C# 101\Console-Programlama\bin\Debug\net5.0\Console-Programlama.exe
+C:\Users\melih\Desktop\C# 101\Console-Programlama\bin\Debug\net5.0\Console-Programlama.deps.json
+C:\Users\melih\Desktop\C# 101\Console-Programlama\bin\Debug\net5.0\Console-Programlama.runtimeconfig.json
+C:\Users\melih\Desktop\C# 101\Console-Programlama\bin\Debug\net5.0\Console-Programlama.runtimeconfig.dev.json
+C:\Users\melih\Desktop\C# 101\Console-Programlama\bin\Debug\net5.0\Console-Programlama.dll
+C:\Users\melih\Desktop\C# 101\Console-Programlama\bin\Debug\net5.0\ref\Console-Programlama.dll
+C:\Users\melih\Desktop\C# 101\Console-Programlama\bin\Debug\net5.0\Console-Programlama.pdb
+C:\Users\melih\Desktop\C# 101\Console-Programlama\obj\Debug\net5.0\Console-Programlama.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\C# 101\Console-Programlama\obj\Debug\net5.0\Console-Programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\C# 101\Console-Programlama\obj\Debug\net5.0\Console-Programlama.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\C# 101\Console-Programlama\obj\Debug\net5.0\Console-Programlama.AssemblyInfo.cs
+C:\Users\melih\Desktop\C# 101\Console-Programlama\obj\Debug\net5.0\Console-Programlama.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\C# 101\Console-Programlama\obj\Debug\net5.0\Console-Programlama.dll
+C:\Users\melih\Desktop\C# 101\Console-Programlama\obj\Debug\net5.0\ref\Console-Programlama.dll
+C:\Users\melih\Desktop\C# 101\Console-Programlama\obj\Debug\net5.0\Console-Programlama.pdb
+C:\Users\melih\Desktop\C# 101\Console-Programlama\obj\Debug\net5.0\Console-Programlama.genruntimeconfig.cache
